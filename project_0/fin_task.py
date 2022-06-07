@@ -3,9 +3,9 @@
 import random
  
 errors = 0
-secret = random.randint(0, 20)
+secret = random.randint(0, 100)
  
-while errors < 6:
+while errors < 20:
     number = input()
     if number.isdigit():
         number = int(number)
