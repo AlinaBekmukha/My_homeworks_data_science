@@ -43,7 +43,7 @@
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/AlinaBekmukha/My_homeworks_data_science/blob/main/project_0/game_v3_fin_task.py)
+:arrow_up:[к оглавлению]()
 
 
 ### Выводы:  
