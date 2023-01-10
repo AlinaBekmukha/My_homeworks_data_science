@@ -1,55 +1,16 @@
-# Проект 0. Guess a number
+# Project 0. Guess a number
 
-## Оглавление  
-[1. Project Description](.README.md#Описание-проекта)  
-[2. Task](.README.md#Какой-кейс-решаем)  
-[3. Information about data](.README.md#Краткая-информация-о-данных)  
-[4. Project steps](.README.md#Этапы-работы-над-проектом)  
-[5. Result](.README.md#Результат)    
-[6. Conclusions](.README.md#Выводы) 
+## Task   
+We need to write a program that guesses the number in the minimum number of attempts.
 
-### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+**Conditions:**  
+- The computer creates an integer from 0 to 100, and we need to guess it. By "guess" we mean "write a program that guesses a number".
+- The algorithm takes into account information about whether the random number is greater or less than what we need.
 
-:arrow_up:[к оглавлению](_)
+**Quality metrics**     
+The results are evaluated by the average number of attempts at 1000 repetitions
 
 
-### Какой кейс решаем?    
-Нужно написать программу, которая угадывает число за минимальное число попыток
+## Solution
 
-**Условия соревнования:**  
-- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
-
-**Метрика качества**     
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
-
-**Что практикуем**     
-Учимся писать хороший код на python
-
-
-### Краткая информация о данных
-....
-  
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-### Этапы работы над проектом  
-....
-
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-### Результаты:  
-....
-
-:arrow_up:[к оглавлению]()
-
-
-### Выводы:  
-....
-
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+Please check the final solution here:(https://github.com/AlinaBekmukha/My_homeworks_data_science/blob/main/project_0/game_v3_fin_task.py)
