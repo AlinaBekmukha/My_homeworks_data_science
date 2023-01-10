@@ -2,7 +2,7 @@
 
 From the [SkillFactory Data Science Course](https://skillfactory.ru/data-science-specialization)
 
-# Проекты
+# Projects
 
 * [Project 0: Guess a number](https://github.com/AlinaBekmukha/sf_data_science/tree/main/project_0)
 * [Project 1: Data Cleaning - Analysis of Job Vacancies on HeadHunter](https://github.com/AlinaBekmukha/sf_data_science/tree/main/project_1)
