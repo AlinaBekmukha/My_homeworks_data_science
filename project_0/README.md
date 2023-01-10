@@ -13,5 +13,5 @@ The results are evaluated by the average number of attempts at 1000 repetitions
 
 ## Solution
 
-Please check the final solution [here].(https://github.com/AlinaBekmukha/My_homeworks_data_science/blob/main/project_0/game_v3_fin_task.py)
-Find the script to run the program over [here].(https://github.com/AlinaBekmukha/My_homeworks_data_science/blob/main/project_0/game.ipynb)
+Please check the final solution [here](https://github.com/AlinaBekmukha/My_homeworks_data_science/blob/main/project_0/game_v3_fin_task.py)
+Find the script to run the program over [here](https://github.com/AlinaBekmukha/My_homeworks_data_science/blob/main/project_0/game.ipynb)
