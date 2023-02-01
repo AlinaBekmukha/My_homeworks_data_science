@@ -11,4 +11,4 @@ First we will import all the relevant dependencies we need.
 
 My Kaggle competition notebook you can find here: https://www.kaggle.com/code/alinascitech/project-3-prediction-for-booking?scriptVersionId=117818485
 
-
+My Kaggle profile: [Alina SciTech](https://www.kaggle.com/alinascitech)
