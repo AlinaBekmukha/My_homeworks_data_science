@@ -9,4 +9,6 @@ Let’s say that we work as a data scientist at Booking.com. One of the problems
 
 First we will import all the relevant dependencies we need.
 
+My Kaggle competition notebook you can find here: https://www.kaggle.com/code/alinascitech/project-3-prediction-for-booking?scriptVersionId=117818485
+
 
